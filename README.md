@@ -7,5 +7,4 @@ Roguelike game made for the 7 Day Roguelike Challenge. You can download a compil
 
 Everything was made from sratch, nothing has been borrowed from other projects except the pretty welcome screen (which isn't used anyway).
 
-v0.01
 This is a alpha version of the game so it's pretty unstable but you can play it if you'd like. 
